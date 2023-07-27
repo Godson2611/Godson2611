@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godson S</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
+<img src="https://github.com/Godson2611/Godson2611/assets/100611736/5813a901-94e1-4b7c-aef8-cc0c5af126e9)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godson2611&label=Profile%20views&color=0e75b6&style=flat" alt="godson2611" /> </p>
 
