@@ -1,3 +1,4 @@
+![logo](https://github.com/Godson2611/Godson2611/blob/main/learning%20Mern%20stack%20developer.png)
 <h1 align="center">Hi 👋, I'm Godson S</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 <p><img align="right" alt="coding" width="300" higth="350px" src="https://github.com/Godson2611/Godson2611/assets/100611736/5813a901-94e1-4b7c-aef8-cc0c5af126e9)"></p>
