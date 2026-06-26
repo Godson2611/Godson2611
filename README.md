@@ -1,27 +1,170 @@
-![logo](https://github.com/Godson2611/Godson2611/blob/main/learning%20Mern%20stack%20developer.png)
 <h1 align="center">Hi 👋, I'm Godson S</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
-<p><img align="right" alt="coding" width="300" higth="350px" src="https://github.com/Godson2611/Godson2611/assets/100611736/5813a901-94e1-4b7c-aef8-cc0c5af126e9)"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=godson2611&label=Profile%20views&color=0e75b6&style=flat" alt="godson2611" /> </p>
+<h3 align="center">
+Full Stack Developer | React.js | Node.js | Next.js
+</h3>
 
-- 🌱 I’m currently learning **MERN Stack Developer**
-
-- 💬 Ask me about **Javascript,HTML,CSS,Bootstrap,react**
-
-- 📫 How to reach me **godson2611@gmail.com**
-
-- ⚡ Fun fact **There are thousands of coding languages and Javascript is the most popular1.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building production-ready web applications with modern JavaScript technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center" width="50"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godson2611&show_icons=true&locale=en" alt="godson2611" /></p>
+## 🚀 About Me
 
-<p><img align="right" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=godson2611&" alt="godson2611" /></p>
+Full Stack Developer with 1+ year of professional experience building and maintaining production web applications using React.js, Next.js, Node.js, Express.js, MySQL, and PostgreSQL.
 
-<p><img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=godson2611&show_icons=true&locale=en&layout=compact" alt="godson2611" /></p>
+I independently designed, developed, and deployed a live ERP system used by real clients for employee management, payroll processing, attendance tracking, shift scheduling, and client operations.
+
+Currently building **Jorvane**, an international e-commerce platform using Next.js 14, TypeScript, PostgreSQL, Prisma ORM, Stripe, and Auth.js.
+
+📍 Tiruppur, Tamil Nadu, India
+
+💼 Open to Full Stack Developer, MERN Stack Developer, React Developer, Node.js Developer, and Software Engineer roles
+
+🚀 Immediate Joining Available
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+### Authentication & Security
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-blue?style=for-the-badge)
+
+---
+
+### Cloud & Deployment
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 Sniper Security Force ERP
+
+Enterprise ERP system built for real-world client operations.
+
+**Features**
+
+- Employee Management
+- Payroll Processing
+- Attendance Tracking
+- Shift Scheduling
+- Client Assignment Management
+- Reporting Dashboard
+- JWT Authentication
+- Role-Based Access Control
+
+**Tech Stack**
+
+React.js • Node.js • Express.js • MySQL • JWT • RBAC
+
+---
+
+### 🔹 Jorvane E-Commerce Platform
+
+International e-commerce platform currently under development.
+
+**Features**
+
+- Next.js 14 App Router
+- Customer Dashboard
+- Admin Panel
+- Stripe Payment Integration
+- Order Management
+- Inventory Management
+- Multi-Currency Support
+- Authentication & Authorization
+
+**Tech Stack**
+
+Next.js 14 • TypeScript • PostgreSQL • Prisma ORM • Stripe • Auth.js
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Godson2611&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Godson2611&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson2611&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: godson2611@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/godson-s
+
+🌐 Portfolio: https://godson-s.netlify.app
+
+🐙 GitHub: https://github.com/Godson2611
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable full-stack applications
+- Advanced Next.js 14 architecture
+- PostgreSQL & Prisma ORM
+- Stripe payment systems
+- Performance optimization
+- Production deployment and monitoring
+
+---
+
+⭐ Always interested in building products that solve real business problems.
